@@ -1,0 +1,23 @@
+{
+  "name": "data-viz",
+  "version": "1.0.0",
+  "description": "Data visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiveshnavin/data-viz.git"
+  },
+  "keywords": [
+    "data-visualization",
+    "data-view"
+  ],
+  "author": "Shivesh Navin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiveshnavin/data-viz/issues"
+  },
+  "homepage": "https://github.com/shiveshnavin/data-viz#readme"
+}
